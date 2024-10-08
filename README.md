@@ -25,9 +25,9 @@ Após a preparação dos dados e o teste de diversos modelos, pude concluir que 
 
 Os resultados dos testes do modelo vencedor são os seguintes:
 
-Precision: 89%
-Recall: 68%
-F1-score: 75%
+Precision: 89% </br>
+Recall: 68% </br>
+F1-score: 75% </br>
 
 
 

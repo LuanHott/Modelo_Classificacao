@@ -8,7 +8,7 @@
 
 ### Visão Geral
 
-Esse modelo de classificação tem como objetivo classificar transações como fraudulentas ou não antes de serem concluídas.  
+Esse modelo de classificação tem como objetivo classificar se uma transação é fraudulenta antes dela ser concluída.  
 
 O notebook referente ao projeto pode ser encontrado [aqui](https://github.com/LuanHott/Modelo_Classificacao/blob/main/Classifica%C3%A7%C3%A3o_de_fraudes.ipynb)
 
